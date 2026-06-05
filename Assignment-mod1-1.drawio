@@ -222,8 +222,8 @@
         <mxCell id="MD-2hdUek0shxu8cgxFw-8" parent="1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" value="Assignment Module 1.1" vertex="1">
           <mxGeometry height="40" width="340" x="14" y="-160" as="geometry" />
         </mxCell>
-        <mxCell id="MD-2hdUek0shxu8cgxFw-9" parent="1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" value="Web Application Architecture" vertex="1">
-          <mxGeometry height="30" width="230" x="14" y="-110" as="geometry" />
+        <mxCell id="MD-2hdUek0shxu8cgxFw-9" parent="1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" value="Sample web-based application architecture by TK" vertex="1">
+          <mxGeometry height="30" width="380" x="14" y="-110" as="geometry" />
         </mxCell>
         <mxCell id="MD-2hdUek0shxu8cgxFw-10" parent="1" style="line;strokeWidth=2;html=1;fontSize=14;" value="" vertex="1">
           <mxGeometry height="10" width="1390" x="10" y="-85" as="geometry" />
@@ -287,9 +287,6 @@
         </mxCell>
         <mxCell id="MD-2hdUek0shxu8cgxFw-156" parent="1" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" value="&lt;span style=&quot;color: rgb(27, 35, 46); font-size: 11px; background-color: transparent;&quot;&gt;Use Amazon Elastic File System &lt;/span&gt;&lt;span style=&quot;color: rgb(27, 35, 46); font-size: 11px; background-color: transparent;&quot;&gt;(Amazon EFS) for Application Servers to&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(27, 35, 46); font-size: 11px; background-color: transparent;&quot;&gt;access to shared files.&lt;/span&gt;" vertex="1">
           <mxGeometry height="39.5" width="449" x="920.5" y="410.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Ran0iReEK8DAIA03jDJi-3" parent="1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" value="by TK" vertex="1">
-          <mxGeometry height="30" width="70" x="1260" y="960" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
