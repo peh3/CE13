@@ -222,8 +222,8 @@
         <mxCell id="MD-2hdUek0shxu8cgxFw-8" parent="1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" value="Assignment Module 1.1" vertex="1">
           <mxGeometry height="40" width="340" x="14" y="-160" as="geometry" />
         </mxCell>
-        <mxCell id="MD-2hdUek0shxu8cgxFw-9" parent="1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" value="Sample web-based application architecture by TK" vertex="1">
-          <mxGeometry height="30" width="380" x="14" y="-110" as="geometry" />
+        <mxCell id="MD-2hdUek0shxu8cgxFw-9" parent="1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" value="Sample web-based application architecture by TK | CE13" vertex="1">
+          <mxGeometry height="30" width="430" x="14" y="-110" as="geometry" />
         </mxCell>
         <mxCell id="MD-2hdUek0shxu8cgxFw-10" parent="1" style="line;strokeWidth=2;html=1;fontSize=14;" value="" vertex="1">
           <mxGeometry height="10" width="1390" x="10" y="-85" as="geometry" />
